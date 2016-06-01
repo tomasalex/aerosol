@@ -14,4 +14,4 @@ Development of a python code in order to perform the data reading, the calculati
 ![Autumn](https://github.com/tomchavakis/aerosol/blob/master/graphsfix/MeanAOD1-2km_Autumn.png)
 
 
-![Year]https://github.com/tomasalex/aerosol/blob/master/graphsfix/SlopeAOD1-2km_Year.png
+![Year](https://github.com/tomasalex/aerosol/blob/master/graphsfix/SlopeAOD1-2km_Year.png)
